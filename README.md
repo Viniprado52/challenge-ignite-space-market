@@ -1,4 +1,3 @@
-# challenge-ignite-space-market
 <h1 align="center">Marketspace App (Rocketseat challenge)</h1>
 
 <p align="center">Este é um aplicativo desenvolvido para a postagem de anúncios de produtos. Possui funcionalidades como login e cadastro de usuários, gerenciamento de produtos, listagem de produtos com busca e filtros etc. 
